@@ -5,7 +5,7 @@
 
 |         NAME      |          Problem Type            |                           Description                                     |
 |-------------------|----------------------------------|---------------------------------------------------------------------------|
-|    DEBUGGING PYTHON PROBLEMS IN KALI-LINUX VIRTUAL BOX                         |     software installation                   1. Run the code below:
+|    DEBUGGING PYTHON PROBLEMS IN KALI-LINUX VIRTUAL BOX                         |     software installation   | 1. Run the code below:
 sudo apt-get install python3 (This will install the python afresh)
 2.  Next to ensure we can locate python we need to type the command below:
 sudo apt install python-is-python3
@@ -16,9 +16,7 @@ type python
 type python2
 type pytho3
 command -v python
-type -a python
-
-                                                   |
+type -a python |
                
 
 
