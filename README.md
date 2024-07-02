@@ -5,7 +5,7 @@
 
 |         NAME      |          Problem Type            |                           Description                                     |
 |-------------------|----------------------------------|---------------------------------------------------------------------------|
-|  python  |     whereis python not working.  | 1. Run the code below:|
+|  python  |     whereis python not working.  | 1. Run the code below: <br>sudo apt-get install python3 (This will install the python afresh)|
                
 
 
