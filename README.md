@@ -5,7 +5,7 @@
 
 |         NAME      |          Problem Type            |                           Description                                     |
 |-------------------|----------------------------------|---------------------------------------------------------------------------|
-|  python  |     whereis python not working.  | 1. Run the code below: <br>sudo apt-get install python3 (This will install the python afresh)<br>Next to ensure we can locate python we need to type the command below: sudo apt install python-is-python3|
+|  python  |     whereis python not working.  | 1. Run the code below: <br>sudo apt-get install python3 (This will install the python afresh)<br> 2. Next to ensure we can locate python we need to type the command below: sudo apt install python-is-python3|
                
 
 
