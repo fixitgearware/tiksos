@@ -5,7 +5,7 @@
 
 |         NAME      |          Problem Type            |                           Description                                     |
 |-------------------|----------------------------------|---------------------------------------------------------------------------|
-|    DEBUGGING PYTHON PROBLEMS                         |                                                                           |
-     IN KALI-LINUX VIRTUAL BOX             
+|    DEBUGGING PYTHON PROBLEMS IN KALI-LINUX VIRTUAL BOX                         |                                                                           |
+               
 
 
