@@ -5,7 +5,7 @@
 
 |         NAME      |          Problem Type            |                           Description                                     |
 |-------------------|----------------------------------|---------------------------------------------------------------------------|
-|  python  |     software installation   | 1. Run the code below:|
+|  python  |     whereis python not working.  | 1. Run the code below:|
                
 
 
